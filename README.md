@@ -7,7 +7,7 @@ Projeto de Nivelamento<a href="https://www.intuitivecare.com"> Intuitive Care</a
 
 <h2> 🚀 Tecnologias usadas:</h2>
 <p>
-    - <a href="https://www.python.org/downloads/windows/">Python /n </a>
+    - <a href="https://www.python.org/downloads/windows/">Python </a>
     - Github
 </p>
 
