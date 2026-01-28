@@ -19,10 +19,8 @@ Projeto de Nivelamento<a href="https://www.intuitivecare.com"> Intuitive Care</a
     # Entrar no diretório
     $ cd Python_1
 
-    # Instalar as dependências
-    $ yarn install
+    # Abre o Arquivo na IDE
+    $ code .
 
-    # Iniciar o projeto
-    $ yarn start
-
+ 
 <h3>Projeto desenvolvido por <a href="https://www.instagram.com/olorenzotrindade/">Lorenzo Trindade</a></h3>
